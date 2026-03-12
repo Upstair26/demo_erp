@@ -1,0 +1,21 @@
+customer_id,customer_name,city,signup_date,segment,is_active
+1,Cliente 01,Roma,2025-01-13,enterprise,True
+2,Cliente 02,Bologna,2025-04-25,retail,True
+3,Cliente 03,Roma,2025-10-30,small_business,True
+4,Cliente 04,Milano,2025-02-17,retail,True
+5,Cliente 05,Milano,2025-10-15,retail,False
+6,Cliente 06,Bologna,2025-08-18,enterprise,True
+7,Cliente 07,Milano,2025-03-23,enterprise,False
+8,Cliente 08,Bari,2025-05-23,retail,True
+9,Cliente 09,Bari,2025-02-22,retail,False
+10,Cliente 10,Roma,2025-07-03,small_business,True
+11,Cliente 11,Milano,2025-08-24,enterprise,True
+12,Cliente 12,Napoli,2025-02-10,enterprise,True
+13,Cliente 13,Bari,2025-10-23,retail,True
+14,Cliente 14,Milano,2025-12-05,retail,True
+15,Cliente 15,Roma,2025-04-30,retail,False
+16,Cliente 16,Torino,2025-08-21,enterprise,True
+17,Cliente 17,Lecce,2025-07-09,small_business,True
+18,Cliente 18,Torino,2025-12-26,enterprise,True
+19,Cliente 19,Lecce,2025-10-01,enterprise,True
+20,Cliente 20,Lecce,2025-08-25,small_business,True
